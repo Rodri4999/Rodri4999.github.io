@@ -1,37 +1,78 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="es">
 
-You can use the [editor on GitHub](https://github.com/Rodri4999/Rodri4999.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="UTF-8">
+    <title>Game of Hero</title>
+    <link rel="shortcut icon" href="img/unnamed.jpg">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+        integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+    <link href="css/styles.css" rel="stylesheet">
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <header>
+        <div class="navbar">
+            <nav class="menu">
+                <img src="img/unnamed.jpg" class="logo" alt="Main logo">
+                <h1>GAME OF HERO</h1>
+                <div class="lista">
+                    <ul>
+                        <li><a href="https://www.facebook.com/gameofhero1/"><i class="fab fa-facebook-square"></i></a>
+                        </li>
+                        <li><a href="https://youtube.com/c/GameofHero"><i class="fab fa-youtube"></i></a></li>
+                        <li><a href="https://www.instagram.com/gameofhero/"><i class="fab fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <!--<img src="img/batman.jpg">
+        <h2>Imagen en la que aparece batman, superman y la mujer maravilla</h2>-->
+    <div class="caja1">
+        <div class="caja2">
+            <h2>Subtitulo</h2><br>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa recusandae nostrum quo quae suscipit?
+                Reprehenderit, officia pariatur iure placeat optio voluptate cum aut dolorem libero asperiores, maxime
+                ullam, corrupti exercitationem!</p><br>
+            <h2>Subtitulo</h2><br>
+            <img src="img/descarga.gif">
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa recusandae nostrum quo quae suscipit?
+                Reprehenderit, officia pariatur iure placeat optio voluptate cum aut dolorem libero asperiores, maxime
+                ullam, corrupti exercitationem!</p><br>
+            <h2>Subtitulo</h2><br>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa recusandae nostrum quo quae suscipit?
+                Reprehenderit, officia pariatur iure placeat optio voluptate cum aut dolorem libero asperiores, maxime
+                ullam, corrupti exercitationem!</p><br>
+        </div>
+        <aside>
+            <p>Espacio Publicitario</p>
+            <ul>
+                <li>
+                    <!--este parrafo es para publicidad-->
+                    <i><img src="img/espacio-disponible.png"></i>
+                    <i><img src="img/espacio-disponible.png"></i>
+                </li>
+            </ul>
+        </aside>
+    </div>
+    <footer>
+        <div class="navbar2">
+            <nav class="menu2">
+                <img src="img/unnamed.jpg" class="logo" alt="Main logo">
+                <h4>Esta página fue creada para utilizar como galeria de imagenes.</h4>
+                <div class="listafooter">
+                    <ul>
+                        <li><a href="https://www.facebook.com/gameofhero1/"><i class="fab fa-facebook-square"></i></a>
+                        </li>
+                        <li><a href="https://youtube.com/c/GameofHero"><i class="fab fa-youtube"></i></a></li>
+                        <li><a href="https://www.instagram.com/gameofhero/"><i class="fab fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </footer>
 
-### Markdown
+</body>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rodri4999/Rodri4999.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
